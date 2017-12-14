@@ -1,0 +1,15 @@
+
+h1.tile {
+  background: maroon;
+  padding: 10px 10px;
+  font: 30px Arial;
+  color: white;
+  float: left;
+}
+
+h2 {color: maroon;
+    font: 20px Arial;
+    float: middle;
+    margin-left: 15px;
+}
+  
