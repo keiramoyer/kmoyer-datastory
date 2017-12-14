@@ -1,15 +1,14 @@
 
-h1.tile {
-  background: maroon;
-  padding: 10px 10px;
-  font: 30px Arial;
-  color: white;
-  float: left;
+/* ===================
+   General media styles
+   =================== */
+img {
+  width: 100%;
 }
 
-h2 {color: maroon;
-    font: 20px Arial;
-    float: middle;
-    margin-left: 15px;
+/* Define grid */
+section#dataviz {
+    display: grid;
+    grid-template-columns: 40% 1fr;
+    grid-gap: 10px;
 }
-  
