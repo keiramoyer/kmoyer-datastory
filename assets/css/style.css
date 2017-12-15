@@ -3,12 +3,19 @@
    General media styles
    =================== */
 img {
-  width: 100%;
+  width: 40%;
 }
 
 /* Define grid */
 section#dataviz {
     display: grid;
-    grid-template-columns: 40% 1fr;
+    grid-template-columns: 50% 1fr;
+    grid-gap: 10px;
+    margin-left: 50px;
+}
+
+section#datavideo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     grid-gap: 10px;
 }
