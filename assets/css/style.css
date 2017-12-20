@@ -29,7 +29,7 @@ section#dataviz {
 
 section#datavideo {
     display: grid;
-    grid-template-columns: 1fr 50%;
+    grid-template-columns: 1fr 1fr;
     grid-gap: 10px;
     margin-right: 10px;
 }
