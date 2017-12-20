@@ -3,7 +3,7 @@
    General media styles
    =================== */
 img {
-  width: 40%;
+  width: 60%;
 }
 
 /* Define grid */
@@ -18,4 +18,5 @@ section#datavideo {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 10px;
+    margin-right: 50px;
 }
